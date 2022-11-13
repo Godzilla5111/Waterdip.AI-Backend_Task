@@ -12,7 +12,7 @@ This is a repository meant to house my code files related to the Backend Task as
   <br> To deactivate the environment : `conda deactivate` <br>
 4. Install dependencies with pip or conda: `pip install -r requirements.txt` or `conda install -r requirements.txt` <br>
 6. Make sure to activate the environment. Then open the command line and run the app to start the server: `python main.py` <br>
-7. Once the app server is up and running, in a separate terminal, navigate to the working directory and run 'tests.py'. It will perform the checks automatically.
+7. Once the app server is up and running, in a separate terminal, navigate to the working directory and run `python tests.py`. It will perform the checks automatically.
 
 Video link of me performing the checks locally - https://drive.google.com/drive/folders/1QtyEjgvlq49_o2YuZlh9o37qGLyi1gcG?usp=share_link
 
