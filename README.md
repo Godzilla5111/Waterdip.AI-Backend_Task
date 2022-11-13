@@ -14,4 +14,6 @@ This is a repository meant to house my code files related to the Backend Task as
 6. Make sure to activate the environment. Then open the command line and run the app to start the server: `python main.py` <br>
 7. Once the app server is up and running, in a separate terminal, navigate to the working directory and run 'tests.py'. It will perform the checks automatically.
 
+Video link of me performing the checks locally - https://drive.google.com/drive/folders/1QtyEjgvlq49_o2YuZlh9o37qGLyi1gcG?usp=share_link
+
 P.S. : @team Waterdip AI, I have added the checks for the bonus tasks myself. Please verify it once whether they are correct or not!
